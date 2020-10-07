@@ -119,24 +119,14 @@ public class EvaluationSheet {
 
         waterEvaluateSheet_Woman.add(new sheetEntry(10, 1000, 45, 60));
 
-        muscleEvaluateSheet_Man.add(new sheetEntry(10, 14, 44, 57));
-        muscleEvaluateSheet_Man.add(new sheetEntry(15, 19, 43, 56));
-        muscleEvaluateSheet_Man.add(new sheetEntry(20, 29, 42, 54));
-        muscleEvaluateSheet_Man.add(new sheetEntry(30, 39, 41, 52));
-        muscleEvaluateSheet_Man.add(new sheetEntry(40, 49, 40, 50));
-        muscleEvaluateSheet_Man.add(new sheetEntry(50, 59, 39, 48));
-        muscleEvaluateSheet_Man.add(new sheetEntry(60, 69, 38, 47));
-        muscleEvaluateSheet_Man.add(new sheetEntry(70, 1000, 37, 46));
+        muscleEvaluateSheet_Man.add(new sheetEntry(20, 39, 75, 89));
+        muscleEvaluateSheet_Man.add(new sheetEntry(40, 59, 73, 86));
+        muscleEvaluateSheet_Man.add(new sheetEntry(60, 1000, 70, 84));
 
 
-        muscleEvaluateSheet_Woman.add(new sheetEntry(10, 14, 36, 43));
-        muscleEvaluateSheet_Woman.add(new sheetEntry(15, 19, 35, 41));
-        muscleEvaluateSheet_Woman.add(new sheetEntry(20, 29, 34, 39));
-        muscleEvaluateSheet_Woman.add(new sheetEntry(30, 39, 33, 38));
-        muscleEvaluateSheet_Woman.add(new sheetEntry(40, 49, 31, 36));
-        muscleEvaluateSheet_Woman.add(new sheetEntry(50, 59, 29, 34));
-        muscleEvaluateSheet_Woman.add(new sheetEntry(60, 69, 28, 33));
-        muscleEvaluateSheet_Woman.add(new sheetEntry(70, 1000, 27, 32));
+        muscleEvaluateSheet_Woman.add(new sheetEntry(20, 39, 63, 75.5f));
+        muscleEvaluateSheet_Woman.add(new sheetEntry(40, 59, 62, 73.5f));
+        muscleEvaluateSheet_Woman.add(new sheetEntry(60, 1000, 60, 72.5f));
 
 
         bmiEvaluateSheet_Man.add(new sheetEntry(16, 24, 20, 25));
